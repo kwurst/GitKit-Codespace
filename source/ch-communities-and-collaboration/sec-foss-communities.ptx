@@ -34,22 +34,80 @@
             </p>
             <p />
           </statement>
-          <areas>
-            <tabular top="minor" bottom="minor" left="minor" right="minor">
-              <row>
-                <cell><area correct="no">shared values</area></cell>
-                <cell><area correct="yes">collaboration</area></cell>
-                <cell><area correct="no">transparency</area></cell>
-              </row>
-    
-              <row>
-                <cell><area correct="no">inclusivity</area></cell>
-                <cell><area correct="no">meritocracy</area></cell>
-                <cell><area correct="no">release early and often</area></cell>
-              </row>
-            </tabular>
-            <p /> 
-          </areas>
+          <choices ramdomize="yes">
+            <choice correct="no">
+              <statement>
+                <p>
+                  shared values
+                </p>
+              </statement>
+              <feedback>
+                <p>
+                  
+                </p>
+              </feedback>
+            </choice>
+            <choice correct="yes">
+              <statement>
+                <p>
+                  collaboration
+                </p>
+              </statement>
+              <feedback>
+                <p>
+                  
+                </p>
+              </feedback>
+            </choice>
+            <choice correct="no">
+              <statement>
+                <p>
+                  transparency
+                </p>
+              </statement>
+              <feedback>
+                <p>
+                  
+                </p>
+              </feedback>
+            </choice>
+            <choice correct="no">
+              <statement>
+                <p>
+                  inclusivity
+                </p>
+              </statement>
+              <feedback>
+                <p>
+                  
+                </p>
+              </feedback>
+            </choice>
+            <choice correct="no">
+              <statement>
+                <p>
+                  meritocracy
+                </p>
+              </statement>
+              <feedback>
+                <p>
+                  
+                </p>
+              </feedback>
+            </choice>
+            <choice correct="no">
+              <statement>
+                <p>
+                  release early and often
+                </p>
+              </statement>
+              <feedback>
+                <p>
+                  
+                </p>
+              </feedback>
+            </choice>
+          </choices>
         </task>
 
         <task xml:id="ex-community-principles-b" label="ex-community-principles-b" >
